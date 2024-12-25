@@ -7,4 +7,4 @@ This repository contains Python code for the project, including functions, simul
   - Running one example of the simulated data
   - Running simulation experiments for the extension analysis 
 
-Please make sure all dependencies are installed and properly configured before running the code.
+Please make sure all dependencies are installed and properly configured before running the code. fs1    q        fvcw
